@@ -12,7 +12,6 @@
 ![OOP](https://img.shields.io/badge/Paradigm-OOP-1d4ed8)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[**Live Demo**](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
 
 </div>
 
